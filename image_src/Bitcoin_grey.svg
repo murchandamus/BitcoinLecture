@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Bitcoin.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="989"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.419933"
+     inkscape:cy="34.253479"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     transform="translate(0.00630876,-0.00301984)"
+     id="g4">
+    <path
+       style="fill:#4d4d4d;fill-opacity:1"
+       d="M 31.75 0 C 17.503586 0.10716531 4.57325 9.7839062 0.96875 24.25 C -3.30725 41.392 7.112 58.75725 24.25 63.03125 C 41.395 67.30625 58.75725 56.893 63.03125 39.75 C 67.30525 22.606 56.894 5.24275 39.75 0.96875 C 37.071875 0.3009375 34.388225 -0.019845428 31.75 0 z M 30.6875 11.15625 L 34.1875 12.03125 L 32.78125 17.6875 C 33.72325 17.9025 34.67075 18.11375 35.59375 18.34375 L 37 12.71875 L 40.5 13.59375 L 39.0625 19.375 C 43.4955 20.902 46.73075 23.1795 46.09375 27.4375 C 45.63275 30.5545 43.919 32.06475 41.625 32.59375 C 44.775 34.23375 46.37075 36.765 44.84375 41.125 C 42.94875 46.54 38.45575 46.97675 32.46875 45.84375 L 31 51.6875 L 27.5 50.8125 L 28.9375 45.0625 C 28.0275 44.8365 27.083 44.5725 26.125 44.3125 L 24.6875 50.09375 L 21.1875 49.21875 L 22.65625 43.375 C 21.83625 43.165 21.00625 42.963 20.15625 42.75 L 15.5625 41.59375 L 17.3125 37.59375 C 17.3125 37.59375 19.91 38.26975 19.875 38.21875 C 20.869 38.46475 21.29475 37.807 21.46875 37.375 L 23.78125 28.1875 C 23.91025 28.2185 24.03925 28.25225 24.15625 28.28125 C 24.01625 28.22525 23.87925 28.18125 23.78125 28.15625 L 25.40625 21.59375 C 25.44925 20.84775 25.20325 19.88625 23.78125 19.53125 C 23.83625 19.49425 21.21875 18.90625 21.21875 18.90625 L 22.15625 15.15625 L 27 16.375 C 27.728 16.556 28.486 16.73225 29.25 16.90625 L 30.6875 11.15625 z M 31.84375 21.8125 L 30.09375 28.84375 C 32.07575 29.33775 38.1975 31.341 39.1875 27.375 C 40.2185 23.238 33.82575 22.3065 31.84375 21.8125 z M 29.21875 32.375 L 27.28125 40.09375 C 29.66125 40.68475 37.00875 43.0475 38.09375 38.6875 C 39.22775 34.1405 31.59875 32.969 29.21875 32.375 z "
+       transform="translate(-0.00630876,0.00301984)"
+       id="path6" />
+  </g>
+</svg>
