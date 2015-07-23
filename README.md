@@ -1,6 +1,12 @@
 # BitcoinLecture
 This repository contains Latex slides I used for a two hour introduction lecture on Bitcoin. The slides are aimed at undergraduate students of various majors, i.e. educated laymen.
 
+**Have a look at the >> [PDF](https://github.com/Xekyo/BitcoinLecture/raw/master/Bitcoin-Introduction.pdf) <<.**
+
+**Please do not tipp the address in the slides, the private key has been shared publicly.** You may use this address instead:
+
+![1HUo58VL3JWqMbYJWc1o1FQ16SYXDgwUza](http://i.imgur.com/6hIvTBs.png)
+
 #Contents of the Slides
 
 ## INTRO
