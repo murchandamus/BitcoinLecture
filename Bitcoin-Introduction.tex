@@ -1,3 +1,4 @@
+\pdfminorversion=4
 \documentclass[12pt, usepdftitle=false]{beamer}
 \usetheme{Singapore}  %% Themenwahl
 \usecolortheme{myct}
@@ -56,7 +57,7 @@
 	\end{description}
 \end{column}
 \begin{column}{.3\textwidth}
-\only<1->{\includegraphics[width=.8\textwidth]{ME}}
+\includegraphics[width=.8\textwidth]{ME}
 \end{column}
 \end{columns}
 \end{frame}
@@ -77,7 +78,7 @@ Properties of Money?
 
 \end{frame}
 
-\begin{frame}<1,2>[label=def]{\only<3>{\alert{Review: }} Definition of Money}
+\begin{frame}<1,2>[label=def]{\onslide<3>{\alert{Review: }} Definition of Money}
 \begin{definition} 
 Money is any object or verifiable record that is generally accepted as payment for goods and services and repayment of debts in a given socio-economic context or country.
 
@@ -92,7 +93,7 @@ The main functions of money are distinguished as:
 	\end{flushright}%
 \end{definition}%
 \vspace{.5em}%
-\only<1>{~ ~}\only<2>{Money is a technology that facilitates trade.}
+\onslide<2>{Money is a technology that facilitates trade.}
 
 \end{frame}
 
@@ -302,8 +303,9 @@ Address: \href{https://blockchain.info/address/1LNHme4E5mrhUk4tbLpb75Q5aq81F8Mb9
 	
 \begin{center}
 	\only<1>{Any questions so far?}
-	%%\only<2>{\includegraphics[width=.4\textwidth]{privkey.png}\\
-	%%The private key to the address from before}
+	\onslide<2->{\includegraphics[width=.4\textwidth]{privkey.png}\\
+	The private key to the address from before}
+	\onslide<3>{\emph{Grab the money during the break}}
 \end{center}
 
 \end{frame}
@@ -312,15 +314,16 @@ Address: \href{https://blockchain.info/address/1LNHme4E5mrhUk4tbLpb75Q5aq81F8Mb9
 \againframe<3>{def}
 
 \begin{frame}{Is Bitcoin Money?}
-	\only<1->{\begin{itemize}
-		\item Verifiable Record \only<3->{\cmark}
-		\item Acceptance \only<4->{\cmark / \xmark}
-		\item Medium of Exchange \only<5->{\cmark}
-		\item Unit of Account \only<6->{\cmark}
-		\item Store of Value  \only<7->{\cmark / \xmark}
-	\end{itemize}}\pause
+	\onslide<1->{%
+	\begin{itemize}
+		\item Verifiable Record \onslide<2->{\cmark}
+		\item Acceptance \onslide<3->{\cmark / \xmark}
+		\item Medium of Exchange \onslide<4->{\cmark}
+		\item Unit of Account \onslide<5->{\cmark}
+		\item Store of Value  \onslide<6->{\cmark / \xmark}
+	\end{itemize}}%
 
-\emph{Bitcoin} is not \emph{legal tender}, but a complementary currency. It shares aspects of both \emph{commodity money} and \emph{fiat money}.
+\onslide<7->{\emph{Bitcoin} is not \emph{legal tender}, but a complementary currency. It shares aspects of both \emph{commodity money} and \emph{fiat money}.}
 
 \end{frame}
 
@@ -433,7 +436,7 @@ Bitcoin is a \alert<3>{payment protocol} that provides a \alert<4>{public ledger
 \end{definition}\pause
 
 \only<2>{... quite a mouthful, huh?}
-\only<3->{What is most important about that is:}
+\onslide<3->{What is most important about that is:}
 \begin{itemize}
 \item<3->It's open-source software.
 \item<4->Very little trust required in other participants of the network.
